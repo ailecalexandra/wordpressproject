@@ -1,0 +1,49 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "ff0afa3a4618efb8c3a7194a7a7cb775",
+    "packages": [
+        {
+            "name": "10web/authorization",
+            "version": "dev-dev",
+            "source": {
+                "type": "git",
+                "url": "ssh://git@gitlab.10web.io:6202/10web-utils/tenweb-authorization.git",
+                "reference": "235640d6b70c920c54a92caa1c60c51b8acee0a3"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Tenweb_Authorization\\": "src/"
+                },
+                "files": [
+                    "src/config/constants.php"
+                ]
+            },
+            "license": [
+                "GPL"
+            ],
+            "authors": [
+                {
+                    "name": "Serine",
+                    "email": "serine@10web.io"
+                }
+            ],
+            "time": "2023-02-27T08:38:03+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "10web/authorization": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
+}

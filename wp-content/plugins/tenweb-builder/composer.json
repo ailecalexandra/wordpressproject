@@ -1,0 +1,15 @@
+{
+    "name": "plugins/tenweb-builder",
+    "description": "10Web Builder is an ultimate premium tool, based on Elementor,  to create websites with stunning design.",
+    "type": "project",
+    "repositories": [
+        {
+            "type": "git",
+            "url": "ssh://git@gitlab.10web.io:6202/10web-utils/tenweb-authorization.git"
+        }
+    ],
+    "license": "GPL-2.0-or-later",
+    "require": {
+        "10web/authorization": "dev-dev"
+    }
+}

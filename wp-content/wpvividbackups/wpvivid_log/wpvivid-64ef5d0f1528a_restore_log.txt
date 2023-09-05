@@ -1,0 +1,190 @@
+[2023-08-30 11:15:28][notice]Start restoring themes.
+[2023-08-30 11:15:28][notice]Extracting file:advenz.10web.site_wpvivid-64ef38453b32d_2023-08-30-12-38_backup_all.zip
+[2023-08-30 11:15:28][notice]Extracting file:advenz.10web.site_wpvivid-64ef38453b32d_2023-08-30-12-38_backup_all.zip succeeded.
+[2023-08-30 11:15:28][notice]Extracting file:advenz.10web.site_wpvivid-64ef38453b32d_2023-08-30-12-38_backup_themes.zip index:0
+[2023-08-30 11:15:30][notice]Extracting file:advenz.10web.site_wpvivid-64ef38453b32d_2023-08-30-12-38_backup_themes.zip index:0 finished.
+[2023-08-30 11:15:30][notice]End restore themes.
+[2023-08-30 11:15:36][notice]Start restoring plugin.
+[2023-08-30 11:15:36][notice]Extracting file:advenz.10web.site_wpvivid-64ef38453b32d_2023-08-30-12-38_backup_all.zip
+[2023-08-30 11:15:37][notice]Extracting file:advenz.10web.site_wpvivid-64ef38453b32d_2023-08-30-12-38_backup_all.zip succeeded.
+[2023-08-30 11:15:38][notice]Extracting file:advenz.10web.site_wpvivid-64ef38453b32d_2023-08-30-12-38_backup_plugin.zip index:0
+[2023-08-30 11:15:40][notice]Extracting file:advenz.10web.site_wpvivid-64ef38453b32d_2023-08-30-12-38_backup_plugin.zip index:0 finished.
+[2023-08-30 11:15:40][notice]End restore plugin.
+[2023-08-30 11:15:49][notice]Start restoring plugin.
+[2023-08-30 11:15:49][notice]Extracting file:advenz.10web.site_wpvivid-64ef38453b32d_2023-08-30-12-38_backup_plugin.zip index:1000
+[2023-08-30 11:16:04][notice]Extracting file:advenz.10web.site_wpvivid-64ef38453b32d_2023-08-30-12-38_backup_plugin.zip index:1000 finished.
+[2023-08-30 11:16:04][notice]End restore plugin.
+[2023-08-30 11:16:16][notice]Start restoring plugin.
+[2023-08-30 11:16:16][notice]Extracting file:advenz.10web.site_wpvivid-64ef38453b32d_2023-08-30-12-38_backup_plugin.zip index:2000
+[2023-08-30 11:16:39][notice]Extracting file:advenz.10web.site_wpvivid-64ef38453b32d_2023-08-30-12-38_backup_plugin.zip index:2000 finished.
+[2023-08-30 11:16:39][notice]End restore plugin.
+[2023-08-30 11:16:52][notice]Start restoring plugin.
+[2023-08-30 11:16:52][notice]Extracting file:advenz.10web.site_wpvivid-64ef38453b32d_2023-08-30-12-38_backup_plugin.zip index:3000
+[2023-08-30 11:16:54][notice]Extracting file:advenz.10web.site_wpvivid-64ef38453b32d_2023-08-30-12-38_backup_plugin.zip index:3000 finished.
+[2023-08-30 11:16:54][notice]End restore plugin.
+[2023-08-30 11:17:00][notice]Start restoring wp-content.
+[2023-08-30 11:17:00][notice]Extracting file:advenz.10web.site_wpvivid-64ef38453b32d_2023-08-30-12-38_backup_all.zip
+[2023-08-30 11:17:00][notice]Extracting file:advenz.10web.site_wpvivid-64ef38453b32d_2023-08-30-12-38_backup_all.zip succeeded.
+[2023-08-30 11:17:00][notice]Extracting file:advenz.10web.site_wpvivid-64ef38453b32d_2023-08-30-12-38_backup_content.zip index:0
+[2023-08-30 11:17:13][notice]Extracting file:advenz.10web.site_wpvivid-64ef38453b32d_2023-08-30-12-38_backup_content.zip index:0 finished.
+[2023-08-30 11:17:13][notice]End restore wp-content.
+[2023-08-30 11:17:25][notice]Start restoring wp-content.
+[2023-08-30 11:17:25][notice]Extracting file:advenz.10web.site_wpvivid-64ef38453b32d_2023-08-30-12-38_backup_content.zip index:1000
+[2023-08-30 11:17:26][notice]Extracting file:advenz.10web.site_wpvivid-64ef38453b32d_2023-08-30-12-38_backup_content.zip index:1000 finished.
+[2023-08-30 11:17:26][notice]End restore wp-content.
+[2023-08-30 11:17:33][notice]Start restoring upload.
+[2023-08-30 11:17:33][notice]Extracting file:advenz.10web.site_wpvivid-64ef38453b32d_2023-08-30-12-38_backup_all.zip
+[2023-08-30 11:17:35][notice]Extracting file:advenz.10web.site_wpvivid-64ef38453b32d_2023-08-30-12-38_backup_all.zip succeeded.
+[2023-08-30 11:17:35][notice]Extracting file:advenz.10web.site_wpvivid-64ef38453b32d_2023-08-30-12-38_backup_uploads.zip index:0
+[2023-08-30 11:17:36][notice]Extracting file:advenz.10web.site_wpvivid-64ef38453b32d_2023-08-30-12-38_backup_uploads.zip index:0 finished.
+[2023-08-30 11:17:36][notice]End restore upload.
+[2023-08-30 11:17:42][notice]Start restoring wp-core.
+[2023-08-30 11:17:42][notice]Extracting file:advenz.10web.site_wpvivid-64ef38453b32d_2023-08-30-12-38_backup_all.zip
+[2023-08-30 11:17:43][notice]Extracting file:advenz.10web.site_wpvivid-64ef38453b32d_2023-08-30-12-38_backup_all.zip succeeded.
+[2023-08-30 11:17:43][notice]Extracting file:advenz.10web.site_wpvivid-64ef38453b32d_2023-08-30-12-38_backup_core.zip
+[2023-08-30 11:18:33][notice]Extracting file:advenz.10web.site_wpvivid-64ef38453b32d_2023-08-30-12-38_backup_core.zip succeeded.
+[2023-08-30 11:18:33][notice]End restore wp-core.
+[2023-08-30 11:19:01][notice]Start restoring databases.
+[2023-08-30 11:19:01][notice]Extracting file:advenz.10web.site_wpvivid-64ef38453b32d_2023-08-30-12-38_backup_all.zip
+[2023-08-30 11:19:01][notice]Extracting file:advenz.10web.site_wpvivid-64ef38453b32d_2023-08-30-12-38_backup_all.zip finished.
+[2023-08-30 11:19:01][notice]Extracting file:C:\xampp\htdocs\wordpress/wp-content\wpvividbackups\advenz.10web.site_wpvivid-64ef38453b32d_2023-08-30-12-38_backup_db.zip
+[2023-08-30 11:19:01][notice]Extracting file:C:\xampp\htdocs\wordpress/wp-content\wpvividbackups\advenz.10web.site_wpvivid-64ef38453b32d_2023-08-30-12-38_backup_db.zip finished.
+[2023-08-30 11:19:01][notice]End restore databases.
+[2023-08-30 11:19:06][notice]Start restoring databases.
+[2023-08-30 11:19:06][notice]Start restoring sql file offset:0
+[2023-08-30 11:19:06][notice]The test to drop table succeeds.
+[2023-08-30 11:19:06][notice]Drop table if exist tmpdafcf6_links
+[2023-08-30 11:19:06][notice]Creating table tmpdafcf6_links
+[2023-08-30 11:19:06][notice]Dumping table tmpdafcf6_links is complete. Start replacing row(s).
+[2023-08-30 11:19:06][notice]Counting of rows in tmpdafcf6_links: 0
+[2023-08-30 11:19:06][notice]Drop table if exist tmpdafcf6_e_events
+[2023-08-30 11:19:06][notice]Creating table tmpdafcf6_e_events
+[2023-08-30 11:19:06][notice]Dumping table tmpdafcf6_e_events is complete. Start replacing row(s).
+[2023-08-30 11:19:06][notice]Counting of rows in tmpdafcf6_e_events: 0
+[2023-08-30 11:19:06][notice]Drop table if exist tmpdafcf6_term_relationships
+[2023-08-30 11:19:06][notice]Creating table tmpdafcf6_term_relationships
+[2023-08-30 11:19:07][notice]Dumping table tmpdafcf6_term_relationships is complete. Start replacing row(s).
+[2023-08-30 11:19:07][Warning]Skipping table tmpdafcf6_term_relationships
+[2023-08-30 11:19:07][notice]Drop table if exist tmpdafcf6_commentmeta
+[2023-08-30 11:19:07][notice]Creating table tmpdafcf6_commentmeta
+[2023-08-30 11:19:07][notice]Dumping table tmpdafcf6_commentmeta is complete. Start replacing row(s).
+[2023-08-30 11:19:07][notice]Counting of rows in tmpdafcf6_commentmeta: 0
+[2023-08-30 11:19:07][notice]Drop table if exist tmpdafcf6_e_submissions_values
+[2023-08-30 11:19:07][notice]Creating table tmpdafcf6_e_submissions_values
+[2023-08-30 11:19:07][notice]Dumping table tmpdafcf6_e_submissions_values is complete. Start replacing row(s).
+[2023-08-30 11:19:07][notice]Counting of rows in tmpdafcf6_e_submissions_values: 0
+[2023-08-30 11:19:07][notice]Drop table if exist tmpdafcf6_term_taxonomy
+[2023-08-30 11:19:07][notice]Creating table tmpdafcf6_term_taxonomy
+[2023-08-30 11:19:07][notice]Dumping table tmpdafcf6_term_taxonomy is complete. Start replacing row(s).
+[2023-08-30 11:19:07][notice]Counting of rows in tmpdafcf6_term_taxonomy: 15
+[2023-08-30 11:19:07][notice]Replacing the row in 0 line.
+[2023-08-30 11:19:07][notice]Replacing row completed. Current row:5000
+[2023-08-30 11:19:07][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true}
+[2023-08-30 11:19:07][notice]Drop table if exist tmpdafcf6_termmeta
+[2023-08-30 11:19:07][notice]Creating table tmpdafcf6_termmeta
+[2023-08-30 11:19:07][notice]Dumping table tmpdafcf6_termmeta is complete. Start replacing row(s).
+[2023-08-30 11:19:07][notice]Counting of rows in tmpdafcf6_termmeta: 0
+[2023-08-30 11:19:07][notice]Drop table if exist tmpdafcf6_terms
+[2023-08-30 11:19:07][notice]Creating table tmpdafcf6_terms
+[2023-08-30 11:19:07][notice]Dumping table tmpdafcf6_terms is complete. Start replacing row(s).
+[2023-08-30 11:19:07][notice]Counting of rows in tmpdafcf6_terms: 15
+[2023-08-30 11:19:07][notice]Replacing the row in 0 line.
+[2023-08-30 11:19:07][notice]Replacing row completed. Current row:5000
+[2023-08-30 11:19:07][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true}
+[2023-08-30 11:19:07][notice]Drop table if exist tmpdafcf6_usermeta
+[2023-08-30 11:19:07][notice]Creating table tmpdafcf6_usermeta
+[2023-08-30 11:19:07][notice]Dumping table tmpdafcf6_usermeta is complete. Start replacing row(s).
+[2023-08-30 11:19:07][notice]Counting of rows in tmpdafcf6_usermeta: 19
+[2023-08-30 11:19:07][notice]Replacing the row in 0 line.
+[2023-08-30 11:19:07][notice]Replacing row completed. Current row:5000
+[2023-08-30 11:19:07][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true}
+[2023-08-30 11:19:07][notice]Drop table if exist tmpdafcf6_users
+[2023-08-30 11:19:07][notice]Creating table tmpdafcf6_users
+[2023-08-30 11:19:07][notice]Dumping table tmpdafcf6_users is complete. Start replacing row(s).
+[2023-08-30 11:19:07][notice]Counting of rows in tmpdafcf6_users: 1
+[2023-08-30 11:19:07][notice]Replacing the row in 0 line.
+[2023-08-30 11:19:07][notice]Replacing row completed. Current row:5000
+[2023-08-30 11:19:07][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true}
+[2023-08-30 11:19:07][notice]Drop table if exist tmpdafcf6_comments
+[2023-08-30 11:19:08][notice]Creating table tmpdafcf6_comments
+[2023-08-30 11:19:08][notice]Dumping table tmpdafcf6_comments is complete. Start replacing row(s).
+[2023-08-30 11:19:08][notice]Counting of rows in tmpdafcf6_comments: 1
+[2023-08-30 11:19:08][notice]Replacing the row in 0 line.
+[2023-08-30 11:19:08][notice]Replacing row completed. Current row:5000
+[2023-08-30 11:19:08][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true}
+[2023-08-30 11:19:08][notice]Drop table if exist tmpdafcf6_e_submissions_actions_log
+[2023-08-30 11:19:08][notice]Creating table tmpdafcf6_e_submissions_actions_log
+[2023-08-30 11:19:08][notice]Dumping table tmpdafcf6_e_submissions_actions_log is complete. Start replacing row(s).
+[2023-08-30 11:19:08][notice]Counting of rows in tmpdafcf6_e_submissions_actions_log: 0
+[2023-08-30 11:19:08][notice]Drop table if exist tmpdafcf6_e_submissions
+[2023-08-30 11:19:08][notice]Creating table tmpdafcf6_e_submissions
+[2023-08-30 11:19:08][notice]Dumping table tmpdafcf6_e_submissions is complete. Start replacing row(s).
+[2023-08-30 11:19:08][notice]Counting of rows in tmpdafcf6_e_submissions: 0
+[2023-08-30 11:19:08][notice]Drop table if exist tmpdafcf6_posts
+[2023-08-30 11:19:08][notice]Creating table tmpdafcf6_posts
+[2023-08-30 11:19:09][notice]Dumping table tmpdafcf6_posts is complete. Start replacing row(s).
+[2023-08-30 11:19:09][notice]Counting of rows in tmpdafcf6_posts: 440
+[2023-08-30 11:19:09][notice]Replacing the row in 0 line.
+[2023-08-30 11:19:09][notice]Replacing row completed. Current row:5000
+[2023-08-30 11:19:09][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true}
+[2023-08-30 11:19:09][notice]Drop table if exist tmpdafcf6_options
+[2023-08-30 11:19:10][notice]Creating table tmpdafcf6_options
+[2023-08-30 11:19:11][notice]Dumping table tmpdafcf6_options is complete. Start replacing row(s).
+[2023-08-30 11:19:11][notice]Counting of rows in tmpdafcf6_options: 297
+[2023-08-30 11:19:11][notice]Replacing the row in 0 line.
+[2023-08-30 11:19:11][notice]Replacing row completed. Current row:5000
+[2023-08-30 11:19:11][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true}
+[2023-08-30 11:19:11][notice]Drop table if exist tmpdafcf6_postmeta
+[2023-08-30 11:19:11][notice]Creating table tmpdafcf6_postmeta
+[2023-08-30 11:19:15][notice]Reading sql file completed offset:5242892
+[2023-08-30 11:19:15][notice]End restore databases.
+[2023-08-30 11:19:20][notice]Start restoring databases.
+[2023-08-30 11:19:20][notice]Start restoring sql file offset:5242892
+[2023-08-30 11:19:20][notice]The test to drop table succeeds.
+[2023-08-30 11:19:20][notice]Dumping table tmpdafcf6_postmeta is complete. Start replacing row(s).
+[2023-08-30 11:19:20][notice]Counting of rows in tmpdafcf6_postmeta: 2327
+[2023-08-30 11:19:20][notice]Replacing the row in 0 line.
+[2023-08-30 11:19:22][notice]Replacing row completed. Current row:5000
+[2023-08-30 11:19:22][notice]{"result":"success","replace_row":5000,"max_replace_row":10000,"current_replace_table_finish":true}
+[2023-08-30 11:19:22][notice]UPDATE tmpdafcf6_options SET option_value="http://localhost/wordpress" WHERE option_name="siteurl";
+[2023-08-30 11:19:22][notice]update query len:99
+[2023-08-30 11:19:22][notice]UPDATE tmpdafcf6_options SET option_value="http://localhost/wordpress" WHERE option_name="home";
+[2023-08-30 11:19:22][notice]update query len:96
+[2023-08-30 11:19:22][notice]Restore db success
+[2023-08-30 11:19:22][notice]End restore databases.
+[2023-08-30 11:19:26][notice]Restore db success,now start rename temp table name prefix to new site prefix.
+[2023-08-30 11:19:27][notice]DROP TABLE IF EXISTS wp_commentmeta
+[2023-08-30 11:19:27][notice]DROP TABLE IF EXISTS wp_comments
+[2023-08-30 11:19:27][notice]DROP TABLE IF EXISTS wp_e_events
+[2023-08-30 11:19:27][notice]DROP TABLE IF EXISTS wp_e_submissions
+[2023-08-30 11:19:27][notice]DROP TABLE IF EXISTS wp_e_submissions_actions_log
+[2023-08-30 11:19:27][notice]DROP TABLE IF EXISTS wp_e_submissions_values
+[2023-08-30 11:19:27][notice]DROP TABLE IF EXISTS wp_links
+[2023-08-30 11:19:27][notice]DROP TABLE IF EXISTS wp_options
+[2023-08-30 11:19:27][notice]DROP TABLE IF EXISTS wp_postmeta
+[2023-08-30 11:19:27][notice]DROP TABLE IF EXISTS wp_posts
+[2023-08-30 11:19:27][notice]DROP TABLE IF EXISTS wp_term_relationships
+[2023-08-30 11:19:27][notice]DROP TABLE IF EXISTS wp_term_taxonomy
+[2023-08-30 11:19:27][notice]DROP TABLE IF EXISTS wp_termmeta
+[2023-08-30 11:19:27][notice]DROP TABLE IF EXISTS wp_terms
+[2023-08-30 11:19:27][notice]DROP TABLE IF EXISTS wp_usermeta
+[2023-08-30 11:19:27][notice]DROP TABLE IF EXISTS wp_users
+[2023-08-30 11:19:27][notice]RENAME TABLE tmpdafcf6_commentmeta TO wp_commentmeta
+[2023-08-30 11:19:27][notice]RENAME TABLE tmpdafcf6_comments TO wp_comments
+[2023-08-30 11:19:27][notice]RENAME TABLE tmpdafcf6_e_events TO wp_e_events
+[2023-08-30 11:19:27][notice]RENAME TABLE tmpdafcf6_e_submissions TO wp_e_submissions
+[2023-08-30 11:19:27][notice]RENAME TABLE tmpdafcf6_e_submissions_actions_log TO wp_e_submissions_actions_log
+[2023-08-30 11:19:27][notice]RENAME TABLE tmpdafcf6_e_submissions_values TO wp_e_submissions_values
+[2023-08-30 11:19:27][notice]RENAME TABLE tmpdafcf6_links TO wp_links
+[2023-08-30 11:19:27][notice]RENAME TABLE tmpdafcf6_options TO wp_options
+[2023-08-30 11:19:27][notice]RENAME TABLE tmpdafcf6_postmeta TO wp_postmeta
+[2023-08-30 11:19:27][notice]RENAME TABLE tmpdafcf6_posts TO wp_posts
+[2023-08-30 11:19:27][notice]RENAME TABLE tmpdafcf6_term_relationships TO wp_term_relationships
+[2023-08-30 11:19:27][notice]RENAME TABLE tmpdafcf6_term_taxonomy TO wp_term_taxonomy
+[2023-08-30 11:19:27][notice]RENAME TABLE tmpdafcf6_termmeta TO wp_termmeta
+[2023-08-30 11:19:27][notice]RENAME TABLE tmpdafcf6_terms TO wp_terms
+[2023-08-30 11:19:27][notice]RENAME TABLE tmpdafcf6_usermeta TO wp_usermeta
+[2023-08-30 11:19:27][notice]RENAME TABLE tmpdafcf6_users TO wp_users
+[2023-08-30 15:19:27][notice]Replacing table prefix succeeded.
+[2023-08-30 15:19:27][notice]Delete migration option failed.
+[2023-08-30 15:19:27][notice]Deleting temp files.
